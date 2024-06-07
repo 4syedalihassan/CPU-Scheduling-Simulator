@@ -22,7 +22,7 @@ git clone https://github.com/4syedalihassan/CPU-Scheduling-Simulator.git
 ```
 Navigate to the project directory:
 ```bash
-cd cpu-scheduling-visualizer
+cd CPU-Scheduling-Simulator
 ```
 
 ## Usage
