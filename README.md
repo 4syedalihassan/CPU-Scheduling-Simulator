@@ -34,6 +34,12 @@ cd CPU-Scheduling-Simulator
 
 ```bash
 cpu-scheduling-visualizer/
+├── algorithms/       # Algorthms
+    ├── fcfs.js
+    ├── sjf.js
+    ├── srtf.js
+    ├── rr.js
+    ├── hrrn.js
 ├── index.html       # Main HTML file
 ├── styles.css       # CSS file for styling
 └── script.js        # JavaScript file containing the logic
